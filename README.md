@@ -1,49 +1,90 @@
 <div align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/twitter/351/earth-globe-asia-australia_1f30f.png" width="100" alt="Earth Icon"/>
-  
-  # 🌍 ClimateBot - Bot Discord Edukasi Perubahan Iklim
+  <img src="https://raw.githubusercontent.com/AdrielClimateBot/assets/main/hero.png" alt="ClimateBot Banner" width="100%"/>
 
-  _"Karena bumi cuma satu, yuk jaga bareng-bareng."_ 🌱
-  
-  **Bot edukasi perubahan iklim yang interaktif, informatif, dan bikin sadar bahwa peduli lingkungan itu keren.**
+  <h1>🌍 ClimateBot</h1>
+  <h3>Bot Discord Interaktif & Edukatif untuk Perubahan Iklim</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/discord.py-2.3.2-purple?style=for-the-badge&logo=discord">
+    <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Adriel-ff69b4?style=for-the-badge">
+  </p>
+
+  <p><i>"Karena bumi cuma satu. Dan sekarang dia lagi butuh bantuan kita."</i></p>
 </div>
 
 ---
 
-## 🚀 Fitur Utama
+## 🧩 Apa Itu ClimateBot?
 
-✨ Bot ini punya banyak fitur keren dan bermanfaat:
+**ClimateBot** adalah bot Discord yang dibangun untuk menyebarkan kesadaran dan edukasi tentang **perubahan iklim** dengan cara yang:
 
-| 💬 Perintah      | 🔎 Fungsi                                                                 |
-|------------------|--------------------------------------------------------------------------|
-| `!penjelasan`    | Penjelasan singkat padat soal perubahan iklim.                          |
-| `!dampak`        | Dampak nyata perubahan iklim di bumi (ekstrem & relevan).               |
-| `!solusi`        | Solusi yang bisa lu lakukan dari rumah sendiri.                         |
-| `!quiz`          | Quiz seru tentang perubahan iklim, skornya dicatat.                    |
-| `!tips`          | Tips harian hidup ramah lingkungan (eco-life).                          |
-| `!fakta`         | Fakta global tentang krisis iklim yang jarang diketahui.                |
-| `!tanya`         | Lu bisa tanya apa pun soal iklim — dibantu AI bot.                      |
-| `!simulasi`      | Lihat dampak suhu bumi naik 1–5°C secara visual dan ngeri-ngeri sedap. |
-| `!tantangan`     | Tantangan mingguan buat gaya hidup lebih hijau.                         |
-| `!event`         | Event-event lingkungan dari seluruh dunia.                              |
-| `!adriel`        | Info developer bot ini (gue sendiri 😎).                                 |
+- 💬 interaktif  
+- 📊 informatif  
+- 🎮 menyenangkan  
+- 🌱 mengajak aksi nyata
+
+Bot ini bukan cuma bot. Dia partner belajar, alarm hati nurani, dan sahabat yang peduli sama planet kita.
 
 ---
 
-## 🧠 Teknologi di Balik Bot Ini
+## 🧠 Fitur Unggulan
 
-dibuat dengan:
-- 🐍 **Python**
-- 🤖 `discord.py` buat interaksi dengan server
-- 🌐 `aiohttp` buat fetch data berita & API
-- 🧠 OpenAI API (opsional, untuk Q&A)
-- 🎯 Modular Command Handler biar gampang upgrade
+<div align="center">
+
+| 🎮 Perintah        | 🔍 Penjelasan                                                                 |
+|--------------------|--------------------------------------------------------------------------------|
+| `!penjelasan`      | Menjelaskan apa itu perubahan iklim dengan bahasa santai dan ilmiah.          |
+| `!dampak`          | Menunjukkan dampak perubahan iklim dari berbagai belahan dunia.               |
+| `!solusi`          | Daftar solusi nyata yang bisa kamu mulai dari rumah sendiri.                  |
+| `!quiz`            | Tantangan kuis acak seputar perubahan iklim. Skor-mu tercatat!                |
+| `!tips`            | Tips hidup hijau yang bisa langsung kamu praktekkan.                          |
+| `!fakta`           | Fakta mengejutkan dan update terbaru soal kondisi bumi.                       |
+| `!tanya`           | Bertanya apapun ke bot tentang iklim—dibantu AI.                             |
+| `!simulasi`        | Simulasi interaktif efek suhu naik 1–5°C. Ngeri, tapi nyata.                  |
+| `!tantangan`       | Weekly eco-challenge: tantangan hijau yang bisa kamu bagikan ke server.       |
+| `!event`           | Kalender event lingkungan dari seluruh dunia.                                |
+| `!adriel`          | Info tentang developer bot: siapa gue, kenapa bikin ini.                      |
+
+</div>
 
 ---
 
-## 📸 Preview
+## 🔥 Cuplikan Bot Beraksi
 
->  contoh saat `!quiz` 
-> ![image](https://github.com/user-attachments/assets/4ac18db5-a558-4dcb-a8f5-e883d9a24d48)
+> Tambahkan screenshot GIF/PNG untuk bikin pembaca klik bintang langsung 🌟
 
+| 📸 `!quiz` | 📸 `!simulasi` | 📸 `!penjelasan` |
+|-----------|----------------|------------------|
+| ![quiz](https://raw.githubusercontent.com/AdrielClimateBot/assets/main/quiz.gif) | ![simulasi](https://raw.githubusercontent.com/AdrielClimateBot/assets/main/simulasi.gif) | ![penjelasan](https://raw.githubusercontent.com/AdrielClimateBot/assets/main/penjelasan.png) |
 
+---
+
+## 🛠️ Teknologi di Balik Layar
+
+| Teknologi     | Keterangan                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| 🐍 Python     | Bahasa utama untuk logic bot & integrasi                                     |
+| 💬 discord.py | Framework komunikasi antar bot & Discord                                     |
+| 🌍 aiohttp    | Fetch berita & data real-time dari API publik                                |
+| 🧠 OpenAI     | Untuk jawaban cerdas di `!tanya` (opsional, bisa toggle via env)             |
+| 🗂️ Modular    | Command handler yang bisa dikembangkan dengan mudah                         |
+
+---
+
+## 📦 Instalasi & Setup
+
+```bash
+# 1. Clone repo ini
+git clone https://github.com/AdrielClimateBot/climatebot.git
+cd climatebot
+
+# 2. Install dependency
+pip install -r requirements.txt
+
+# 3. Siapkan token bot di file .env
+DISCORD_TOKEN=your_discord_token_here
+
+# 4. Jalankan bot
+python bot.py
