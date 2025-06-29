@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/discord.py-2.3.2-purple?style=for-the-badge&logo=discord">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=for-the-badge&logo=github">
-    <img src="https://img.shields.io/badge/Made%20with-❤️%20by%20Adriel-ff69b4?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Made%20with-%20%20Adriel-ff69b4?style=for-the-badge">
   </p>
 
   <p><i>"Karena bumi cuma satu. Dan sekarang dia lagi butuh bantuan kita."</i></p>
