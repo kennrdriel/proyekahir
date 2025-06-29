@@ -28,7 +28,7 @@
 
 | 📦 Command        | ⚡ Fungsi                                                                 |
 |------------------|--------------------------------------------------------------------------|
-| `!penjelasan`    | Penjelasan dasar perubahan iklim dengan bahasa santai tapi ilmiah.      |
+| `!penjelasan`    | Penjelasan dasar perubahan iklim dengan bahasa santai tapi ilmiah.       |
 | `!dampak`        | Tampilkan dampak nyata perubahan iklim secara visual.                    |
 | `!solusi`        | Daftar solusi yang bisa kamu lakukan dari rumah sendiri.                 |
 | `!quiz`          | Main kuis seru sambil belajar.                                           |
@@ -38,7 +38,7 @@
 | `!tanya`         | Bot akan jawab pertanyaanmu soal iklim via AI.                           |
 | `!tantangan`     | Tantangan mingguan untuk jadi lebih eco-friendly.                        |
 | `!event`         | Event lingkungan dunia yang sedang & akan berlangsung.                   |
-| `!adriel`        | Kenalin pembuat bot ini — yaitu gue 😎                                    |
+| `!adriel`        | Biar tau siapa yang buat bot ini 😎                                     |
 
 ---
 
@@ -70,7 +70,7 @@
 
 ---
 
-## 👤 Dibuat oleh Adriel
+## 👤 Dibuat oleh
 
 ```bash
-!adrie
+!adriel
