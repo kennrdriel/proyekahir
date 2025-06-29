@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/AdrielClimateBot/assets/main/quiz-preview.gif" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/4ac18db5-a558-4dcb-a8f5-e883d9a24d48"/><br/>
       <b>!quiz</b><br/>
       Jawab pertanyaan seputar iklim dan kumpulkan skor!
     </td>
