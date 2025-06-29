@@ -43,7 +43,7 @@ dibuat dengan:
 
 ## 📸 Preview
 
-> *(taro screenshot di sini biar makin meyakinkan, misalnya contoh respon `!quiz`, `!simulasi*
+>  contoh saat `!quiz` 
 > ![image](https://github.com/user-attachments/assets/4ac18db5-a558-4dcb-a8f5-e883d9a24d48)
 
 
