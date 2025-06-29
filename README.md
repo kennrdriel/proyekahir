@@ -109,7 +109,3 @@ Dengan fitur-fitur interaktif dan bahasa santai, bot ini ngajak kamu untuk:
 
 ---
 
-## 👨‍💻 About the Developer
-
-```bash
-!adriel
