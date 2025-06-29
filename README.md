@@ -54,7 +54,8 @@
       Jawab pertanyaan seputar iklim dan kumpulkan skor!
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/AdrielClimateBot/assets/main/simulasi-temp.png" width="300"/><br/>
+      <img src="![image](https://github.com/user-attachments/assets/0c9b939c-538b-42ef-ac1c-11d4d4d6c80c)
+" width="300"/><br/>
       <b>!simulasi</b><br/>
       Lihat apa yang terjadi jika suhu bumi naik perlahan...
     </td>
