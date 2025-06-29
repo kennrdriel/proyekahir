@@ -59,7 +59,7 @@
       Lihat apa yang terjadi jika suhu bumi naik perlahan...
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/AdrielClimateBot/assets/main/fakta-embed.png" width="300"/><br/>
+      <img src="https://github.com/user-attachments/assets/6c908d57-61f6-4f9b-96a8-163956abc421"/><br/>
       <b>!fakta</b><br/>
       Fakta mengejutkan tentang bumi yang wajib kamu tahu.
     </td>
