@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Python-3.12.0-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/discord.py-2.3.2-purple?style=for-the-badge&logo=discord" />
   <img src="https://img.shields.io/badge/Open%20Source-YES-brightgreen?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/By-Adriel-ff69b4?style=for-the-badge" />
