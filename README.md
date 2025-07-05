@@ -24,7 +24,7 @@
 
 ---
 
-## ✨ Fitur-fitur Andalan
+## ✨ Fitur-fitur Climate Bot
 
 | 📦 Command        | ⚡ Fungsi                                                                 |
 |------------------|--------------------------------------------------------------------------|
@@ -42,7 +42,7 @@
 
 ---
 
-## 🎥 Cuplikan Bot dalam Aksi
+## 🎥 Cuplikan Bot 
 
 <div align="center">
 
