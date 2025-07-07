@@ -25,19 +25,23 @@
 
 ## ✨ Fitur-fitur Climate Bot
 
-| ❗ Command        | ⚡ Fungsi                                                                 |
-|------------------|--------------------------------------------------------------------------|
-| `!penjelasan`    | Penjelasan dasar perubahan iklim dengan bahasa santai tapi ilmiah.       |
-| `!dampak`        | Tampilkan dampak nyata perubahan iklim secara visual.                    |
-| `!solusi`        | Daftar solusi yang bisa kamu lakukan dari rumah sendiri.                 |
-| `!quiz`          | Main kuis seru sambil belajar.                                           |
-| `!simulasi`      | Efek suhu naik 1-5°C? Lihat langsung di Discord.                         |
-| `!tips`          | Tips harian hidup lebih hijau.                                           |
-| `!fakta`         | Fakta mengejutkan soal bumi & iklim.                                     |
-| `!tanya`         | Bot akan jawab pertanyaanmu soal iklim via AI.                           |
-| `!tantangan`     | Tantangan mingguan untuk jadi lebih eco-friendly.                        |
-| `!event`         | Event lingkungan dunia yang sedang & akan berlangsung.                   |
-| `!adriel`        | Biar tau siapa yang buat bot ini 😎                                     |
+| ❗ Command         | ⚡ Fungsi                                                               |
+|--------------------|--------------------------------------------------------------------------|
+| `!penjelasan`      | Penjelasan dasar perubahan iklim dengan bahasa santai tapi ilmiah.       |
+| `!dampak`          | Tampilkan dampak nyata perubahan iklim secara visual.                    |
+| `!solusi`          | Daftar solusi yang bisa kamu lakukan dari rumah sendiri.                 |
+| `!fakta`           | Fakta mengejutkan soal bumi & iklim.                                     |
+| `!mitos`           | Mitos populer soal bumi & iklim.                                         | 
+| `!bahayaiklim`     | Bahaya dari perubahan iklim.                                             |
+| `!beritaiklim`     | Berita **terbaru** tentang perubahaan iklim.                             |
+| `!tanya <kata>`    | Tanya seputar ikilm.                                                     |
+| `!quiz`            | Main quiz seru sambil belajar.                                           |
+| `!rank`            | Leaderboard dari quiz yang sudah dilakukan.                              |
+| `!simulasi <1-4>`  | Efek suhu naik 1-4°C? Lihat langsung di Discord.                         |
+| `tantangan`        | Tantangan mingguan untuk jadi lebih eco-friendly.                        |                     
+| `!ratingboard`     | Hasil votting (Admin Only).                                              |
+| `!ratingpoll`      | Votting seberapa bagus bot ini.                                          |
+| `!adriel`          | Biar tau siapa yang buat bot ini 😎.                                     |
 
 ---
 
