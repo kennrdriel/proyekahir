@@ -25,7 +25,7 @@
 
 ## ✨ Fitur-fitur Climate Bot
 
-| 📦 Command        | ⚡ Fungsi                                                                 |
+| ❗ Command        | ⚡ Fungsi                                                                 |
 |------------------|--------------------------------------------------------------------------|
 | `!penjelasan`    | Penjelasan dasar perubahan iklim dengan bahasa santai tapi ilmiah.       |
 | `!dampak`        | Tampilkan dampak nyata perubahan iklim secara visual.                    |
