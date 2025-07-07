@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AdrielClimateBot/assets/main/climatebot-banner.png" width="100%"/>
+
 
   <h1>🌍 ClimateBot</h1>
   <p><strong>Bot Discord Edukatif untuk Perubahan Iklim</strong></p>
