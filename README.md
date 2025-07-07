@@ -1,5 +1,5 @@
 
-
+<div align="center">
   <h1>🌍 ClimateBot</h1>
   <p><strong>Bot Discord Edukatif untuk Perubahan Iklim</strong></p>
   <p>Belajar iklim, kuis interaktif, simulasi dampak global — semua langsung di Discord.</p>
